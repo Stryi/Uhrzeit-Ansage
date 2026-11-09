@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="432"
+    android:viewportHeight="432">
+
+    <!-- Blue rounded-square background -->
+    <path
+        android:fillColor="#087FE8"
+        android:pathData="M72,0 L360,0 Q432,0 432,72 L432,360 Q432,432 360,432 L72,432 Q0,432 0,360 L0,72 Q0,0 72,0 Z" />
+
+    <!-- Clock outer rim -->
+    <path
+        android:fillColor="#102B66"
+        android:pathData="M180,28 A152,152 0,1 1,179.9 28 Z" />
+    <path
+        android:fillColor="#F8FAFF"
+        android:pathData="M180,48 A132,132 0,1 1,179.9 48 Z" />
+
+    <!-- Clock hour markers -->
+    <path android:fillColor="#102B66"
+        android:pathData="M174,70 h12 a5,5 0,0 1,5 5 v20 a5,5 0,0 1,-5 5 h-12 a5,5 0,0 1,-5 -5 v-20 a5,5 0,0 1,5 -5 Z
+        M174,322 h12 a5,5 0,0 1,5 5 v20 a5,5 0,0 1,-5 5 h-12 a5,5 0,0 1,-5 -5 v-20 a5,5 0,0 1,5 -5 Z
+        M58,174 h20 a5,5 0,0 1,5 5 v12 a5,5 0,0 1,-5 5 h-20 a5,5 0,0 1,-5 -5 v-12 a5,5 0,0 1,5 -5 Z
+        M310,174 h20 a5,5 0,0 1,5 5 v12 a5,5 0,0 1,-5 5 h-20 a5,5 0,0 1,-5 -5 v-12 a5,5 0,0 1,5 -5 Z" />
+
+    <!-- Clock hands -->
+    <path
+        android:fillColor="#102B66"
+        android:pathData="M171,160 L190,146 L253,201 L242,220 Z" />
+    <path
+        android:fillColor="#102B66"
+        android:pathData="M181,174 L302,104 Q312,98 318,109 Q324,120 313,126 L194,196 Z" />
+    <path
+        android:fillColor="#102B66"
+        android:pathData="M184,162 A19,19 0 1,0 184,200 A19,19 0 1,0 184,162 Z" />
+
+    <!-- Speaker body, in front of the clock -->
+    <path
+        android:fillColor="#102B66"
+        android:pathData="M230,258 Q230,244 244,244 H280 L326,210 Q344,198 344,220 V346 Q344,368 326,356 L280,322 H244 Q230,322 230,308 Z" />
+    <path
+        android:fillColor="#F8FAFF"
+        android:pathData="M241,258 Q241,255 245,255 H284 L326,225 Q333,220 333,229 V337 Q333,346 326,341 L284,311 H245 Q241,311 241,307 Z" />
+
+    <!-- Sound waves -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F8FAFF"
+        android:strokeWidth="13"
+        android:strokeLineCap="round"
+        android:pathData="M357,250 Q382,282 357,314" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F8FAFF"
+        android:strokeWidth="13"
+        android:strokeLineCap="round"
+        android:pathData="M378,228 Q417,282 378,336" />
+</vector>
