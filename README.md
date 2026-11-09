@@ -62,3 +62,9 @@ Unterstütze Deine tägliche Routine mit der sprechenden Uhr – jetzt Uhrzeit A
 
 ### 7. Neuheiten / Release Notes (Version 1.0)
 `Erste Veröffentlichung der App "Uhrzeit Ansage" mit Sprachausgabe, flexiblen Zeitintervallen, eigenen Ansagetexten, Lautstärkeregelung und Hintergrundbetrieb.`
+
+---
+
+### 📄 Lizenz
+Dieses Projekt ist unter der **Apache 2.0 Lizenz** lizenziert – siehe die [LICENSE](LICENSE) Datei für Details.
+
