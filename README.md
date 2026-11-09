@@ -56,7 +56,7 @@ Unterstütze Deine tägliche Routine mit der sprechenden Uhr – jetzt Uhrzeit A
 ### 6. Entwicklerkontakt & Support
 - **Entwickler:** Christian Stryi
 - **E-Mail-Adresse:** cstryi@freenet.de
-- **Datenschutzerklärung:** Lokale Speicherung auf dem Gerät, keine Datenübertragung.
+- **Datenschutzerklärung:** Siehe [DATENSCHUTZ.md](DATENSCHUTZ.md) (Lokale Speicherung auf dem Gerät, keine Datenübertragung).
 
 ---
 
